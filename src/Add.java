@@ -4,7 +4,7 @@ public class Add {
     public static void main(String[] args) {
         int a;
         int b;
-        int sum=0;
+        int sum;
 
         Scanner sc = new Scanner(System.in);
         System.out.println("enter a number to perform addtion");
@@ -15,6 +15,7 @@ public class Add {
         System.out.println("addtion is :"+sum);
 
         System.out.println("Added line");
+        System.out.println("Added line 1");
 
     }
 }
